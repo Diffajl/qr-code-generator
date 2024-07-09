@@ -24,3 +24,9 @@ This is a simple web application for generating QR codes from URLs using Streaml
 ```sh
 git clone https://github.com/yourusername/qr-code-generator.git
 cd qr-code-generator
+```
+
+2. Run the app
+```sh
+streamlit run main.py
+```
